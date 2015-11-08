@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "1.2.x",
+    "express": "4.4.x",
+    "pkcs7": "^0.2.3",
+    "precond": "^0.2.3"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "karma": "^0.13.15",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-mocha": "^0.2.0",
+    "karma-spec-reporter": "0.0.22",
+    "karma-webpack": "^1.7.0",
+    "mocha": "^2.3.3",
+    "webpack": "^1.12.3"
+  }
+}
